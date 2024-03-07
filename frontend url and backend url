@@ -1,0 +1,9 @@
+export const APIURL = "http://18.118.95.195/api/";
+
+export const BASEURL = "http://18.118.95.195/";
+
+
+same url will be used in backend........
+
+
+note :-  this is the public ip of frontend or public instance no wehere we use private ip . except nginc configuration
